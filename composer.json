@@ -17,14 +17,14 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@github.com:alleyinteractive/wp-type-extensions.git"
+      "url": "https://github.com/Zamfi99/wp-type-extensions"
     }
   ],
   "require": {
     "php": "^8.1",
     "alleyinteractive/composer-wordpress-autoloader": "^1.0",
     "alleyinteractive/traverse-reshape": "^2.0",
-    "alleyinteractive/wp-type-extensions": "^2.0"
+    "alleyinteractive/wp-type-extensions": "dev-main"
   },
   "require-dev": {
     "alleyinteractive/alley-coding-standards": "^2.0",
